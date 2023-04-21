@@ -1,4 +1,4 @@
-# Introduction
+# Introduction my
 
 Welcome to my project! This repository contains all the information and documentation related to my journey as an informatics student at Institut Teknologi Sepuluh Nopember.
 
